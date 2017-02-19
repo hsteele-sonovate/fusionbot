@@ -75,5 +75,8 @@ D:\fusionbot\bin\fr\Microsoft.Bot.Builder.resources.dll
 D:\fusionbot\bin\ja\Microsoft.Bot.Builder.resources.dll
 D:\fusionbot\bin\ru\Microsoft.Bot.Builder.resources.dll
 D:\fusionbot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\fusionbot\obj\Debug\Sonomate.csprojResolveAssemblyReference.cache
 D:\fusionbot\obj\Debug\Bot Application1.dll
 D:\fusionbot\obj\Debug\Bot Application1.pdb
+D:\fusionbot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+D:\fusionbot\bin\System.IdentityModel.Tokens.Jwt.pdb
