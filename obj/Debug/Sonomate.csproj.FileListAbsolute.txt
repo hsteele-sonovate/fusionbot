@@ -38,3 +38,43 @@ D:\Sonomate\Sonomate\bin\Microsoft.Bot.Builder.Autofac.dll
 D:\Sonomate\Sonomate\bin\Microsoft.Bot.Builder.Autofac.xml
 D:\Sonomate\Sonomate\bin\cs\Microsoft.Bot.Builder.resources.dll
 D:\Sonomate\Sonomate\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\fusionbot\bin\Bot Application1.dll.config
+D:\fusionbot\bin\Bot Application1.dll
+D:\fusionbot\bin\Bot Application1.pdb
+D:\fusionbot\bin\Autofac.dll
+D:\fusionbot\bin\Chronic.dll
+D:\fusionbot\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\fusionbot\bin\Microsoft.Bot.Builder.dll
+D:\fusionbot\bin\Microsoft.Bot.Connector.dll
+D:\fusionbot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\fusionbot\bin\Microsoft.Rest.ClientRuntime.dll
+D:\fusionbot\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\fusionbot\bin\Newtonsoft.Json.dll
+D:\fusionbot\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\fusionbot\bin\System.Net.Http.Formatting.dll
+D:\fusionbot\bin\System.Web.Http.dll
+D:\fusionbot\bin\System.Web.Http.WebHost.dll
+D:\fusionbot\bin\Autofac.xml
+D:\fusionbot\bin\Microsoft.Bot.Builder.xml
+D:\fusionbot\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\fusionbot\bin\Microsoft.Bot.Connector.xml
+D:\fusionbot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\fusionbot\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\fusionbot\bin\Newtonsoft.Json.xml
+D:\fusionbot\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\fusionbot\bin\System.Net.Http.Formatting.xml
+D:\fusionbot\bin\System.Web.Http.xml
+D:\fusionbot\bin\System.Web.Http.WebHost.xml
+D:\fusionbot\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\fusionbot\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\fusionbot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\fusionbot\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\fusionbot\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\fusionbot\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\fusionbot\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\fusionbot\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\fusionbot\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\fusionbot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\fusionbot\obj\Debug\Sonomate.csprojResolveAssemblyReference.cache
+D:\fusionbot\obj\Debug\Bot Application1.dll
+D:\fusionbot\obj\Debug\Bot Application1.pdb
