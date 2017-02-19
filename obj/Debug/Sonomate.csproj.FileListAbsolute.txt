@@ -1,0 +1,40 @@
+D:\Sonomate\Sonomate\bin\Bot Application1.dll.config
+D:\Sonomate\Sonomate\bin\Bot Application1.dll
+D:\Sonomate\Sonomate\bin\Bot Application1.pdb
+D:\Sonomate\Sonomate\bin\Autofac.dll
+D:\Sonomate\Sonomate\bin\Chronic.dll
+D:\Sonomate\Sonomate\bin\Microsoft.Bot.Builder.dll
+D:\Sonomate\Sonomate\bin\Microsoft.Bot.Connector.dll
+D:\Sonomate\Sonomate\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\Sonomate\Sonomate\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Sonomate\Sonomate\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Sonomate\Sonomate\bin\Newtonsoft.Json.dll
+D:\Sonomate\Sonomate\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Sonomate\Sonomate\bin\System.Net.Http.Formatting.dll
+D:\Sonomate\Sonomate\bin\System.Web.Http.dll
+D:\Sonomate\Sonomate\bin\System.Web.Http.WebHost.dll
+D:\Sonomate\Sonomate\bin\Autofac.xml
+D:\Sonomate\Sonomate\bin\Microsoft.Bot.Builder.xml
+D:\Sonomate\Sonomate\bin\Microsoft.Bot.Connector.xml
+D:\Sonomate\Sonomate\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\Sonomate\Sonomate\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Sonomate\Sonomate\bin\Newtonsoft.Json.xml
+D:\Sonomate\Sonomate\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Sonomate\Sonomate\bin\System.Net.Http.Formatting.xml
+D:\Sonomate\Sonomate\bin\System.Web.Http.xml
+D:\Sonomate\Sonomate\bin\System.Web.Http.WebHost.xml
+D:\Sonomate\Sonomate\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\Sonomate\Sonomate\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\Sonomate\Sonomate\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\Sonomate\Sonomate\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\Sonomate\Sonomate\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\Sonomate\Sonomate\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\Sonomate\Sonomate\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\Sonomate\Sonomate\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\Sonomate\Sonomate\obj\Debug\Sonomate.csprojResolveAssemblyReference.cache
+D:\Sonomate\Sonomate\obj\Debug\Bot Application1.dll
+D:\Sonomate\Sonomate\obj\Debug\Bot Application1.pdb
+D:\Sonomate\Sonomate\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\Sonomate\Sonomate\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\Sonomate\Sonomate\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\Sonomate\Sonomate\bin\de-dE\Microsoft.Bot.Builder.resources.dll
