@@ -24,7 +24,7 @@ public class BasicLuisDialog : LuisDialog<object>
     [LuisIntent("Greet")]
     public async Task GreetIntent(IDialogContext context, LuisResult result)
     {
-        await context.PostAsync($"How can I help?"); //
+        await context.PostAsync($"How can I help you?");
         context.Wait(MessageReceived);
     }
 
