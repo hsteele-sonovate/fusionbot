@@ -35,7 +35,7 @@ public class BasicLuisDialog : LuisDialog<object>
         await context.PostAsync($"Alright, I'll try and help.");
         var frm = new PlacementForm();
 
-        var val = result.TopScoringIntent.Actions.FirstOrDefault()?.Parameters.FirstOrDefault()?.Value.FirstOrDefault().Resolution.FirstOrDefault().Value;
+        var val = result.TopScoringIntent?.Actions?.FirstOrDefault()?.Parameters?.FirstOrDefault()?.Value?.FirstOrDefault().Resolution?.FirstOrDefault().Value;
         if (val != null)
         {
             frm.PlacementId = val;
